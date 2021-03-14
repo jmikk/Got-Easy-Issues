@@ -7,7 +7,8 @@ Step 2.5 your puppets should be in puppet,password format (or in google sheets/e
 
 Of note passwords with spaces are currently not supported.
 
-Then run the exe file it will find every issue and make a HTML you can then open up the HTML document I would bookmark it and then click the first link you will be able to to just spam enter to your hearts content.  
-
+Step 3 Then run the exe file it will find every issue and make a HTML you can then open up the HTML document I would bookmark it and then click the first link you will be able to to just spam enter to your hearts content.  
+ 
+Step 4 grab tampermonkey and install the autocloser from this github
 
 Make sure to have the auto close in tamper monkey from this github and turn off any other ones that you might have.  
