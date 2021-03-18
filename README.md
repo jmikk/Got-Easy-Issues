@@ -2,7 +2,9 @@
 
 
 Step 1 download the fold as a zip by clicking the green button that says code then click download as a zip
+
 Step 2 puppet your puppets in the file called "puppet.csv".  If you do not have somthing that can edit a csv (excel works) you can make a new one in google sheets and click download as csv.  
+
 Step 2.5 your puppets should be in puppet,password format (or in google sheets/excel puppet in one box and password in the next. 
 
 Of note passwords with spaces are currently not supported.
